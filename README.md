@@ -16,6 +16,7 @@
 - CSS🖼️
 - PICO CSS 🖼️
 - PHP 🐘
+- POO (Classes)
 - Git🐈​
 <br>
 
