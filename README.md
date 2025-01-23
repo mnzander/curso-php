@@ -20,10 +20,6 @@
 - Git🐈​
 <br>
 
-# Content
-- Info of the next film of Marvel ℹ️
-<br>
-
 # Useful Resources
 - <a href="https://github.com/DiljotSG/MCU-Countdown" target="_blank">API 🔃
 - <a href="https://www.youtube.com/watch?v=BcGAPkjt_IE&ab_channel=midulive" target="_blank">Midudev Video ⬜
